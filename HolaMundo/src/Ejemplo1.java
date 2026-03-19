@@ -24,5 +24,7 @@ public class Ejemplo1 {
         //la funcion math devuelve un numero con decimales
         System.out.println("El cuadrado es: " + n*n);
         //el cuadrado tambien se puede hacer poniendo n*n dentro del mensaje
+
+        teclado.close();
     }
 }
