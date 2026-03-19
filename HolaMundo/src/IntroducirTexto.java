@@ -10,5 +10,7 @@ public class IntroducirTexto {
         y=teclado.next();
         System.out.println(x);
         System.out.println(y);
+
+        teclado.close();
     }
 }

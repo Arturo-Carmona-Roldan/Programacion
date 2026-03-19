@@ -6,5 +6,7 @@ public class IntroducirNumero {
         System.out.println("Dame un numero: ");
         x=teclado.nextDouble();
         System.out.println(x);
+
+        teclado.close();
     }
 }

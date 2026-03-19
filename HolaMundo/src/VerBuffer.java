@@ -9,6 +9,6 @@ public class VerBuffer {
         n = teclado.nextInt();
         System.out.println("el numero es: " + n);
 
-
+        teclado.close();
     }
 }

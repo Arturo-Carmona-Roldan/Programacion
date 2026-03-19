@@ -23,5 +23,7 @@ public class Ejemplo6 {
         System.out.println("Nombre: " + nombre);
         System.out.println("Edad: " + edad);
         System.out.println("Direccion: " + direccion);
+
+        teclado.close();
     }
 }
