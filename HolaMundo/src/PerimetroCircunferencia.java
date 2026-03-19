@@ -1,5 +1,3 @@
-import jdk.jshell.spi.SPIResolutionException;
-
 //este programa va a calcular el perimetro de ua circunferencia segun su radio
 public class PerimetroCircunferencia {
     public static void main(String[] args) {
