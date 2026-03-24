@@ -55,5 +55,7 @@ public class Main {
                     break;
             }
         } while (opcion != 0);
+
+        teclado.close();
     }
 }
